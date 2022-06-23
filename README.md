@@ -1,2 +1,6 @@
 # Todo-List
-localstorage works and it looks pretty damn good(:
+Really simple app, nothing else to say, it's just straight forward.
+
+It also has localstorage and some nice design.
+
+See the website here: https://xovest.github.io/Todo-List/
